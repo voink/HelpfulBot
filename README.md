@@ -1,2 +1,5 @@
-# HelpfulBot
-A guilded.gg minimal guilded bot to protect your server from bots. Its barely anything within the bot, but it does the job
+# Helpful Bot
+## Important
+This hasn't been tested as I have been declined from the guilded.gg api, but you could test it/do anything you'd like to this code.
+## Support
+`Voink.gg` on Guilded
